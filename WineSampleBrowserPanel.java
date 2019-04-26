@@ -1,3 +1,3 @@
-public class WineSampelBrowserPanel{
+public class WineSampleBrowserPanel{
 
 }
